@@ -1,0 +1,12 @@
+button{
+    background-color: rgb(255, 175, 28);
+}
+body{
+    background-color: black;
+}
+.bodyBackground{
+    background-image:url(Fundi.png);
+    background-position:center;
+    background-size:cover;
+    height: 650px;
+}
